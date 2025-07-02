@@ -220,14 +220,6 @@ public async Task<string> GetAIResponse(string userQuery)
 }
 ```
 
-## 🎯 What's Next?
-
-I'm constantly improving RAG.NET! Here's what's cooking:
-
-- 📈 Advanced embedding models support
-- 🔄 Real-time vector store updates
-- 🌟 More similarity algorithms
-
 ## 💡 Get Started
 
 Ready to supercharge your document search? Clone this repo and dive in! Check out the examples folder for more detailed usage scenarios.
